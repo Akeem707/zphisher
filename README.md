@@ -1,4 +1,6 @@
-<!-- Zphisher -->
+<!-- Zphisher -->$ cd zphisher
+$ bash zphisher.sh
+
 
 <p align="center">
   <img src=".github/misc/logo.png">
